@@ -1,83 +1,44 @@
 import streamlit as st
-import pandas as pd
-from emotional_analysis import analyze_emotion
-from recommendation_engine import get_recommendations
+import json
+import numpy as np
+from emotional_analysis import EmotionalAnalyzer
+from recommendation_engine import RecommendationEngine
 
-# Set page title and layout
-def main():
-    st.title('Student Stress Analysis Application')
+st.set_page_config(layout='wide')
 
-    # Input for the original dataset
-    certifications = st.selectbox('Certifications', ['Yes', 'No'])
-    gender = st.selectbox('Gender', ['Male', 'Female', 'Other'])
-    department = st.text_input('Department')
-    height = st.number_input('Height (cm)', min_value=0)
-    weight = st.number_input('Weight (kg)', min_value=0)
-    marks_10 = st.number_input('10th Marks (%)', min_value=0, max_value=100)
-    marks_12 = st.number_input('12th Marks (%)', min_value=0, max_value=100)
-    marks_grad = st.number_input('Graduation Marks (%)', min_value=0, max_value=100)
-    hobbies = st.text_input('Hobbies')
-    study_time = st.number_input('Study Time (hours/week)', min_value=0)
-    preferred_time = st.selectbox('Preferred Study Time', ['Morning', 'Afternoon', 'Evening'])
-    sal_expect = st.number_input('Expected Salary', min_value=0)
-    like_degree = st.selectbox('Like the Degree?', ['Yes', 'No'])
-    career_pursue = st.text_input('Career Pursue')
-    watch_time = st.number_input('Watch Time (hours/week)', min_value=0)
-    travel_time = st.number_input('Travel Time (minutes/day)', min_value=0)
-    money_status = st.selectbox('Money Status', ['Good', 'Average', 'Poor'])
-    part_time_job = st.selectbox('Part-time Job', ['Yes', 'No'])
+@st.cache_resource
+def load_analyzers():
+    
+    # Load state and city data
+    # Assuming this function loads the data from a source
+    pass
 
-    # Enhanced features
-    professional_course = st.selectbox('Professional Course', ['Yes', 'No'])
-    current_emotion = st.text_input('Current Emotion')
-    trigger_events = st.text_area('Trigger Events')
+st.title('Enhanced Student Stress Analysis System')
+
+col1, col2 = st.columns(2)
+
+with col1:
+    course = st.selectbox('Select Your Professional Course:', ['Engineering', 'Medical', 'Law', 'Commerce/CA', 'Arts/Humanities', 'Science', 'MBA/Management', 'Architecture', 'Other'])
+    current_emotion = st.selectbox('Current Emotion:', ['Calm', 'Happy', 'Content', 'Worried', 'Anxious', 'Stressed', 'Depressed', 'Overwhelmed', 'Panic'])
+    trigger_events = st.multiselect('Trigger Events:', ['Academic pressure', 'Exam stress', 'Parent scolding', 'Love failure', 'Relationship issues', 'Divorce', 'Financial problems', 'Health issues', 'Bullying', 'Academic failure', 'Career uncertainty', 'Social isolation', 'Family conflict', 'Loss of loved one', 'Other'])
+
+with col2:
     personal_context = st.text_area('Personal Context')
-    state = st.text_input('State')
-    city = st.text_input('City')
+    state = st.selectbox('Select Your State:', ['State 1', 'State 2'])  # Populate with actual state data
+    city = st.selectbox('Select Your City:', ['City 1', 'City 2'])  # Populate with actual city data
 
-    if st.button('Analyze Stress Level'):
-        features = pd.DataFrame({
-            'certifications': [certifications],
-            'gender': [gender],
-            'department': [department],
-            'height': [height],
-            'weight': [weight],
-            'marks_10': [marks_10],
-            'marks_12': [marks_12],
-            'marks_grad': [marks_grad],
-            'hobbies': [hobbies],
-            'study_time': [study_time],
-            'preferred_time': [preferred_time],
-            'sal_expect': [sal_expect],
-            'like_degree': [like_degree],
-            'career_pursue': [career_pursue],
-            'watch_time': [watch_time],
-            'travel_time': [travel_time],
-            'money_status': [money_status],
-            'part_time_job': [part_time_job],
-            'professional_course': [professional_course],
-            'current_emotion': [current_emotion],
-            'trigger_events': [trigger_events],
-            'personal_context': [personal_context],
-            'state': [state],
-            'city': [city]
-        })
+    st.subheader('Additional Stress Indicators')
+    sleep_hours = st.slider('Sleep Hours:', 0, 24)
+    study_hours = st.slider('Study Hours:', 0, 24)
+    social_activities = st.slider('Social Activities:', 0, 24)
+    anxiety_level = st.slider('Anxiety Level:', 0, 10)
+    academic_pressure = st.slider('Academic Pressure:', 0, 10)
+    family_support = st.slider('Family Support:', 0, 10)
 
-        # Call ML model for prediction
-        ml_model_score = predict_stress(features)  # hypothetical ML model function
-        emotion_score = analyze_emotion(current_emotion)
-        triggers_score = analyze_triggers(trigger_events)
+if st.button('Analyze'):  
+    ml_prediction = EmotionalAnalyzer().get_comprehensive_analysis()
+    final_stress_score = RecommendationEngine().get_course_stress_factor()
+    # More calculations and stress analysis logic
 
-        # Calculate final stress score
-        final_stress_score = 0.7 * ml_model_score + 0.1 * professional_course + 0.1 * emotion_score + 0.1 * triggers_score
-
-        st.write(f'Stress Score: {final_stress_score}')
-
-        # Display recommendations based on analysis
-        recommendations = get_recommendations(state, city)
-        st.write('Recommended Mental Health Resources:')
-        for rec in recommendations:
-            st.write(f'- {rec}')
-
-if __name__ == '__main__':
-    main()
+    # Display results with progress bar and tabs for recommendations
+    st.progress(0.5)  # Example progress
