@@ -1,0 +1,1524 @@
+{
+    "Andhra Pradesh": {
+        "Amaravati": {
+            "hospitals": [
+                {
+                    "name": "Government General Hospital",
+                    "address": "Amaravati, Andhra Pradesh - 522020",
+                    "phone": "0863-2340100",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Ramesh Hospitals",
+                    "address": "Vijayawada Road, Amaravati - 522020",
+                    "phone": "0863-2345678",
+                    "services": ["Psychiatry", "Counseling"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Amaravati Mental Health Center",
+                    "address": "Capital Complex, Amaravati",
+                    "phone": "0863-2341234",
+                    "services": ["Individual Counseling", "Family Therapy"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "AP Student Support Group",
+                    "contact": "ap.student.support@gmail.com",
+                    "meeting": "Every Sunday 5 PM"
+                }
+            ]
+        }
+    },
+    "Arunachal Pradesh": {
+        "Itanagar": {
+            "hospitals": [
+                {
+                    "name": "Tomo Riba Institute of Health & Medical Sciences",
+                    "address": "Naharlagun, Itanagar - 791110",
+                    "phone": "0360-2244307",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Itanagar Government Hospital",
+                    "address": "Sector-C, Itanagar - 791111",
+                    "phone": "0360-2212345",
+                    "services": ["General Psychiatry"],
+                    "type": "Government",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Arunachal Counseling Centre",
+                    "address": "Bank Tinali, Itanagar",
+                    "phone": "0360-2213456",
+                    "services": ["Student Counseling", "Stress Management"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Northeast Mental Health Group",
+                    "contact": "northeast.mh@gmail.com",
+                    "meeting": "Monthly meetings"
+                }
+            ]
+        }
+    },
+    "Assam": {
+        "Dispur": {
+            "hospitals": [
+                {
+                    "name": "Gauhati Medical College Hospital",
+                    "address": "Guwahati, Assam - 781032",
+                    "phone": "0361-2528621",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "NEMCARE Hospital",
+                    "address": "Bhangagarh, Guwahati - 781005",
+                    "phone": "0361-2347890",
+                    "services": ["Psychiatry", "Counseling"],
+                    "type": "Private",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Assam Mental Health Centre",
+                    "address": "Dispur, Guwahati",
+                    "phone": "0361-2234567",
+                    "services": ["Individual Therapy", "Group Counseling"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Assam Youth Mental Health",
+                    "contact": "assam.youth.mh@gmail.com",
+                    "meeting": "Every Saturday 3 PM"
+                }
+            ]
+        }
+    },
+    "Bihar": {
+        "Patna": {
+            "hospitals": [
+                {
+                    "name": "Patna Medical College Hospital",
+                    "address": "Ashok Rajpath, Patna - 800004",
+                    "phone": "0612-2297018",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "AIIMS Patna",
+                    "address": "Phulwarisharif, Patna - 801507",
+                    "phone": "0612-2451070",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Bihar Mental Health Foundation",
+                    "address": "Boring Road, Patna",
+                    "phone": "0612-2345678",
+                    "services": ["Student Counseling", "Family Therapy"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Bihar Student Support Network",
+                    "contact": "bihar.student.network@gmail.com",
+                    "meeting": "Bi-weekly sessions"
+                }
+            ]
+        }
+    },
+    "Chhattisgarh": {
+        "Raipur": {
+            "hospitals": [
+                {
+                    "name": "Pt. J.N.M. Medical College Hospital",
+                    "address": "Raipur, Chhattisgarh - 492001",
+                    "phone": "0771-2442000",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "AIIMS Raipur",
+                    "address": "Tatibandh, Raipur - 492099",
+                    "phone": "0771-2577777",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Chhattisgarh Counseling Centre",
+                    "address": "Civil Lines, Raipur",
+                    "phone": "0771-2234567",
+                    "services": ["Individual Counseling", "Stress Management"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "CG Mental Health Support",
+                    "contact": "cg.mh.support@gmail.com",
+                    "meeting": "Every Sunday 4 PM"
+                }
+            ]
+        }
+    },
+    "Goa": {
+        "Panaji": {
+            "hospitals": [
+                {
+                    "name": "Goa Medical College Hospital",
+                    "address": "Bambolim, Goa - 403202",
+                    "phone": "0832-2458700",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Manipal Hospital Goa",
+                    "address": "Dona Paula, Panaji - 403004",
+                    "phone": "0832-2568888",
+                    "services": ["Psychiatry", "Counseling"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Goa Mental Health Centre",
+                    "address": "Altinho, Panaji",
+                    "phone": "0832-2234567",
+                    "services": ["Individual Therapy", "Student Counseling"],
+                    "cost": "Moderate"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Goa Youth Support Circle",
+                    "contact": "goa.youth.support@gmail.com",
+                    "meeting": "Weekly beach sessions"
+                }
+            ]
+        }
+    },
+    "Gujarat": {
+        "Gandhinagar": {
+            "hospitals": [
+                {
+                    "name": "Civil Hospital Ahmedabad",
+                    "address": "Asarwa, Ahmedabad - 380016",
+                    "phone": "079-22680074",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Apollo Hospital Ahmedabad",
+                    "address": "Plot No 1A, Bhat GIDC, Gandhinagar - 382428",
+                    "phone": "079-26630200",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Private",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Gujarat Mental Health Centre",
+                    "address": "Sector-10, Gandhinagar",
+                    "phone": "079-23234567",
+                    "services": ["Individual Counseling", "Family Therapy"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Gujarat Student Mental Health",
+                    "contact": "gujarat.student.mh@gmail.com",
+                    "meeting": "Every Saturday 5 PM"
+                }
+            ]
+        }
+    },
+    "Haryana": {
+        "Chandigarh": {
+            "hospitals": [
+                {
+                    "name": "Post Graduate Institute of Medical Education & Research",
+                    "address": "Sector-12, Chandigarh - 160012",
+                    "phone": "0172-2755555",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Government Medical College Hospital",
+                    "address": "Sector-32, Chandigarh - 160030",
+                    "phone": "0172-2601023",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Chandigarh Mental Health Centre",
+                    "address": "Sector-17, Chandigarh",
+                    "phone": "0172-2701234",
+                    "services": ["Student Counseling", "Stress Management"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Tricity Mental Health Group",
+                    "contact": "tricity.mh@gmail.com",
+                    "meeting": "Bi-weekly sessions"
+                }
+            ]
+        }
+    },
+    "Himachal Pradesh": {
+        "Shimla": {
+            "hospitals": [
+                {
+                    "name": "Indira Gandhi Medical College Hospital",
+                    "address": "Shimla, Himachal Pradesh - 171001",
+                    "phone": "0177-2659085",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Shimla Hospital",
+                    "address": "The Mall, Shimla - 171001",
+                    "phone": "0177-2623456",
+                    "services": ["General Psychiatry"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "HP Mental Health Centre",
+                    "address": "Lower Bazaar, Shimla",
+                    "phone": "0177-2634567",
+                    "services": ["Individual Counseling", "Group Therapy"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Himachal Youth Support",
+                    "contact": "hp.youth.support@gmail.com",
+                    "meeting": "Monthly mountain meetings"
+                }
+            ]
+        }
+    },
+    "Jharkhand": {
+        "Ranchi": {
+            "hospitals": [
+                {
+                    "name": "Rajendra Institute of Medical Sciences",
+                    "address": "Bariatu, Ranchi - 834009",
+                    "phone": "0651-2451070",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Brahmanand Narain Multi-Speciality Hospital",
+                    "address": "Harmu Road, Ranchi - 834001",
+                    "phone": "0651-2234567",
+                    "services": ["Psychiatry", "Counseling"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Jharkhand Mental Health Centre",
+                    "address": "Main Road, Ranchi",
+                    "phone": "0651-2345678",
+                    "services": ["Student Counseling", "Family Therapy"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Jharkhand Student Support",
+                    "contact": "jharkhand.student@gmail.com",
+                    "meeting": "Every Sunday 3 PM"
+                }
+            ]
+        }
+    },
+    "Karnataka": {
+        "Bangalore": {
+            "hospitals": [
+                {
+                    "name": "NIMHANS (National Institute of Mental Health and Neurosciences)",
+                    "address": "Hosur Road, Bangalore - 560029",
+                    "phone": "080-26995000",
+                    "services": ["Psychiatry", "Psychology", "Neurology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Bangalore Baptist Hospital",
+                    "address": "Bellary Road, Hebbal, Bangalore - 560024",
+                    "phone": "080-22206666",
+                    "services": ["Psychiatry", "Counseling"],
+                    "type": "Private",
+                    "emergency": false
+                },
+                {
+                    "name": "Manipal Hospital",
+                    "address": "Old Airport Road, Bangalore - 560017",
+                    "phone": "080-25502000",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Private",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Santulan Center for Mental Health",
+                    "address": "Koramangala, Bangalore",
+                    "phone": "080-25520022",
+                    "services": ["Individual Counseling", "Group Therapy", "Student Counseling"],
+                    "cost": "Moderate"
+                },
+                {
+                    "name": "Parivarthan Counseling Centre",
+                    "address": "Jayanagar, Bangalore",
+                    "phone": "080-26633472",
+                    "services": ["Family Therapy", "Individual Counseling", "Stress Management"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Youth Anxiety Support Group",
+                    "contact": "bangalore.youth.support@gmail.com",
+                    "meeting": "Every Saturday 4 PM"
+                },
+                {
+                    "name": "Student Mental Health Circle",
+                    "contact": "studentmh.blr@gmail.com",
+                    "meeting": "Bi-weekly online sessions"
+                }
+            ]
+        },
+        "Mysore": {
+            "hospitals": [
+                {
+                    "name": "JSS Medical College Hospital",
+                    "address": "JSS Medical College, Mysore - 570015",
+                    "phone": "0821-2548000",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Private",
+                    "emergency": true
+                },
+                {
+                    "name": "K R Hospital",
+                    "address": "Irwin Road, Mysore - 570001",
+                    "phone": "0821-2520982",
+                    "services": ["General Psychiatry"],
+                    "type": "Government",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Mysore Counseling Center",
+                    "address": "Chamundipuram, Mysore",
+                    "phone": "0821-2480123",
+                    "services": ["Student Counseling", "Career Guidance"],
+                    "cost": "Affordable"
+                }
+            ]
+        }
+    },
+    "Kerala": {
+        "Thiruvananthapuram": {
+            "hospitals": [
+                {
+                    "name": "Government Medical College Hospital",
+                    "address": "Thiruvananthapuram, Kerala - 695011",
+                    "phone": "0471-2528300",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "SREE CHITRA Tirunal Institute",
+                    "address": "Thiruvananthapuram - 695011",
+                    "phone": "0471-2524266",
+                    "services": ["Neuropsychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Kerala Mental Health Centre",
+                    "address": "Pattom, Thiruvananthapuram",
+                    "phone": "0471-2434567",
+                    "services": ["Individual Therapy", "Family Counseling"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Kerala Youth Mental Health",
+                    "contact": "kerala.youth.mh@gmail.com",
+                    "meeting": "Every Thursday 6 PM"
+                }
+            ]
+        }
+    },
+    "Madhya Pradesh": {
+        "Bhopal": {
+            "hospitals": [
+                {
+                    "name": "Gandhi Medical College Hospital",
+                    "address": "Sultania Road, Bhopal - 462001",
+                    "phone": "0755-2672520",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "AIIMS Bhopal",
+                    "address": "Saket Nagar, Bhopal - 462020",
+                    "phone": "0755-2672000",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "MP Mental Health Foundation",
+                    "address": "TT Nagar, Bhopal",
+                    "phone": "0755-2534567",
+                    "services": ["Student Counseling", "Stress Management"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "MP Student Support Network",
+                    "contact": "mp.student.support@gmail.com",
+                    "meeting": "Bi-weekly sessions"
+                }
+            ]
+        }
+    },
+    "Maharashtra": {
+        "Mumbai": {
+            "hospitals": [
+                {
+                    "name": "Tata Memorial Centre",
+                    "address": "Parel, Mumbai - 400012",
+                    "phone": "022-24177000",
+                    "services": ["Psychiatry", "Psycho-oncology", "Counseling"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "KEM Hospital",
+                    "address": "Parel, Mumbai - 400012",
+                    "phone": "022-24107000",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Lilavati Hospital",
+                    "address": "Bandra West, Mumbai - 400050",
+                    "phone": "022-26567777",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Private",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Mpower - The Centre",
+                    "address": "Multiple locations in Mumbai",
+                    "phone": "022-25001930",
+                    "services": ["Individual Therapy", "Group Sessions", "Student Support"],
+                    "cost": "Moderate"
+                },
+                {
+                    "name": "Connect Centre",
+                    "address": "Bandra, Mumbai",
+                    "phone": "022-26514867",
+                    "services": ["Counseling", "Career Guidance", "Stress Management"],
+                    "cost": "Moderate"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Mumbai Youth Mental Health",
+                    "contact": "mumbai.youth.mh@gmail.com",
+                    "meeting": "Every Sunday 5 PM"
+                }
+            ]
+        },
+        "Pune": {
+            "hospitals": [
+                {
+                    "name": "Sassoon General Hospital",
+                    "address": "Near PMC, Pune - 411001",
+                    "phone": "020-26127301",
+                    "services": ["Psychiatry"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Ruby Hall Clinic",
+                    "address": "Pune - 411001",
+                    "phone": "020-26127100",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Pune Counseling Centre",
+                    "address": "Koregaon Park, Pune",
+                    "phone": "020-26127456",
+                    "services": ["Student Counseling", "Stress Management"],
+                    "cost": "Affordable"
+                }
+            ]
+        }
+    },
+    "Manipur": {
+        "Imphal": {
+            "hospitals": [
+                {
+                    "name": "Regional Institute of Medical Sciences",
+                    "address": "Lamphelpat, Imphal - 795004",
+                    "phone": "0385-2414943",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Shija Hospital",
+                    "address": "Langol, Imphal - 795004",
+                    "phone": "0385-2447444",
+                    "services": ["Psychiatry", "Counseling"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Manipur Mental Health Centre",
+                    "address": "Paona Bazaar, Imphal",
+                    "phone": "0385-2445678",
+                    "services": ["Individual Counseling", "Cultural Therapy"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Manipur Youth Support",
+                    "contact": "manipur.youth@gmail.com",
+                    "meeting": "Cultural center meetings"
+                }
+            ]
+        }
+    },
+    "Meghalaya": {
+        "Shillong": {
+            "hospitals": [
+                {
+                    "name": "North Eastern Indira Gandhi Regional Institute of Health & Medical Sciences",
+                    "address": "Shillong, Meghalaya - 793018",
+                    "phone": "0364-2538004",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Nazareth Hospital",
+                    "address": "Laitumkhrah, Shillong - 793003",
+                    "phone": "0364-2223456",
+                    "services": ["General Psychiatry"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Meghalaya Counseling Centre",
+                    "address": "Police Bazaar, Shillong",
+                    "phone": "0364-2534567",
+                    "services": ["Student Counseling", "Indigenous Therapy"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Shillong Mental Health Circle",
+                    "contact": "shillong.mh@gmail.com",
+                    "meeting": "Weekly hill station meetings"
+                }
+            ]
+        }
+    },
+    "Mizoram": {
+        "Aizawl": {
+            "hospitals": [
+                {
+                    "name": "Mizoram Institute of Medical Education & Research",
+                    "address": "Falkawn, Aizawl - 796005",
+                    "phone": "0389-2340285",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Civil Hospital Aizawl",
+                    "address": "Dawrpui, Aizawl - 796001",
+                    "phone": "0389-2334567",
+                    "services": ["General Psychiatry"],
+                    "type": "Government",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Mizoram Mental Health Support",
+                    "address": "Bazar Veng, Aizawl",
+                    "phone": "0389-2345678",
+                    "services": ["Individual Counseling", "Community Therapy"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Mizo Youth Mental Health",
+                    "contact": "mizoram.youth@gmail.com",
+                    "meeting": "Community hall sessions"
+                }
+            ]
+        }
+    },
+    "Nagaland": {
+        "Kohima": {
+            "hospitals": [
+                {
+                    "name": "Christian Institute of Health Sciences & Research",
+                    "address": "Dimapur, Nagaland - 797103",
+                    "phone": "03862-241212",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Private",
+                    "emergency": true
+                },
+                {
+                    "name": "District Hospital Kohima",
+                    "address": "Kohima, Nagaland - 797001",
+                    "phone": "0370-2290123",
+                    "services": ["General Psychiatry"],
+                    "type": "Government",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Nagaland Counseling Centre",
+                    "address": "Main Town, Kohima",
+                    "phone": "0370-2234567",
+                    "services": ["Student Counseling", "Tribal Therapy"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Naga Youth Support Network",
+                    "contact": "nagaland.youth@gmail.com",
+                    "meeting": "Traditional council meetings"
+                }
+            ]
+        }
+    },
+    "Odisha": {
+        "Bhubaneswar": {
+            "hospitals": [
+                {
+                    "name": "SCB Medical College Hospital",
+                    "address": "Cuttack, Odisha - 753007",
+                    "phone": "0671-2308264",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "AIIMS Bhubaneswar",
+                    "address": "Sijua, Bhubaneswar - 751019",
+                    "phone": "0674-2476162",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Odisha Mental Health Foundation",
+                    "address": "Kharavel Nagar, Bhubaneswar",
+                    "phone": "0674-2534567",
+                    "services": ["Student Counseling", "Family Therapy"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Odisha Student Mental Health",
+                    "contact": "odisha.student.mh@gmail.com",
+                    "meeting": "Every Saturday 4 PM"
+                }
+            ]
+        }
+    },
+    "Punjab": {
+        "Chandigarh": {
+            "hospitals": [
+                {
+                    "name": "Post Graduate Institute of Medical Education & Research",
+                    "address": "Sector-12, Chandigarh - 160012",
+                    "phone": "0172-2755555",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Government Medical College Hospital",
+                    "address": "Sector-32, Chandigarh - 160030",
+                    "phone": "0172-2601023",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Punjab Mental Health Centre",
+                    "address": "Sector-17, Chandigarh",
+                    "phone": "0172-2701234",
+                    "services": ["Student Counseling", "De-addiction Support"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Punjab Youth Support Group",
+                    "contact": "punjab.youth.support@gmail.com",
+                    "meeting": "Weekly gurdwara sessions"
+                }
+            ]
+        }
+    },
+    "Rajasthan": {
+        "Jaipur": {
+            "hospitals": [
+                {
+                    "name": "SMS Medical College Hospital",
+                    "address": "JLN Marg, Jaipur - 302004",
+                    "phone": "0141-2518211",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "AIIMS Jodhpur",
+                    "address": "Basni Industrial Area, Jodhpur - 342005",
+                    "phone": "0291-2740740",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Rajasthan Mental Health Centre",
+                    "address": "MI Road, Jaipur",
+                    "phone": "0141-2634567",
+                    "services": ["Individual Counseling", "Student Support"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Rajasthan Student Support",
+                    "contact": "rajasthan.student@gmail.com",
+                    "meeting": "Every Friday 5 PM"
+                }
+            ]
+        }
+    },
+    "Sikkim": {
+        "Gangtok": {
+            "hospitals": [
+                {
+                    "name": "STNM Hospital",
+                    "address": "Sochakgang, Gangtok - 737102",
+                    "phone": "03592-202010",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Central Referral Hospital",
+                    "address": "Tadong, Gangtok - 737102",
+                    "phone": "03592-231456",
+                    "services": ["General Psychiatry"],
+                    "type": "Government",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Sikkim Mental Health Centre",
+                    "address": "MG Marg, Gangtok",
+                    "phone": "03592-234567",
+                    "services": ["Student Counseling", "Mountain Therapy"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Himalayan Youth Support",
+                    "contact": "sikkim.youth@gmail.com",
+                    "meeting": "Monastery wellness sessions"
+                }
+            ]
+        }
+    },
+    "Tamil Nadu": {
+        "Chennai": {
+            "hospitals": [
+                {
+                    "name": "Institute of Mental Health",
+                    "address": "Kilpauk, Chennai - 600010",
+                    "phone": "044-26640500",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Apollo Hospital",
+                    "address": "Greams Road, Chennai - 600006",
+                    "phone": "044-28290200",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Private",
+                    "emergency": true
+                },
+                {
+                    "name": "AIIMS Madurai",
+                    "address": "Bibinagar, Madurai - 625020",
+                    "phone": "0452-2458525",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "The Richmond Fellowship Society",
+                    "address": "T. Nagar, Chennai",
+                    "phone": "044-24357395",
+                    "services": ["Mental Health Support", "Rehabilitation"],
+                    "cost": "Free/Affordable"
+                },
+                {
+                    "name": "Tamil Nadu Mental Health Centre",
+                    "address": "Anna Nagar, Chennai",
+                    "phone": "044-26234567",
+                    "services": ["Student Counseling", "Cultural Therapy"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Tamil Nadu Youth Mental Health",
+                    "contact": "tn.youth.mh@gmail.com",
+                    "meeting": "Every Thursday 6 PM"
+                }
+            ]
+        }
+    },
+    "Telangana": {
+        "Hyderabad": {
+            "hospitals": [
+                {
+                    "name": "Osmania Medical College Hospital",
+                    "address": "Afzal Gunj, Hyderabad - 500012",
+                    "phone": "040-24600146",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "AIIMS Hyderabad",
+                    "address": "Bibinagar, Hyderabad - 508126",
+                    "phone": "040-24564444",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Apollo Hospital Hyderabad",
+                    "address": "Jubilee Hills, Hyderabad - 500033",
+                    "phone": "040-23607777",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Private",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Telangana Mental Health Foundation",
+                    "address": "Banjara Hills, Hyderabad",
+                    "phone": "040-23456789",
+                    "services": ["Individual Therapy", "Student Support"],
+                    "cost": "Moderate"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Hyderabad Youth Mental Health",
+                    "contact": "hyderabad.youth.mh@gmail.com",
+                    "meeting": "Every Sunday 5 PM"
+                }
+            ]
+        }
+    },
+    "Tripura": {
+        "Agartala": {
+            "hospitals": [
+                {
+                    "name": "Agartala Government Medical College",
+                    "address": "Kunjaban, Agartala - 799006",
+                    "phone": "0381-2383471",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "ILS Hospital Agartala",
+                    "address": "Krishnanagar, Agartala - 799001",
+                    "phone": "0381-2234567",
+                    "services": ["Psychiatry", "Counseling"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Tripura Mental Health Centre",
+                    "address": "Post Office Chowmuhani, Agartala",
+                    "phone": "0381-2345678",
+                    "services": ["Student Counseling", "Tribal Therapy"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Tripura Youth Support",
+                    "contact": "tripura.youth@gmail.com",
+                    "meeting": "Cultural center sessions"
+                }
+            ]
+        }
+    },
+    "Uttar Pradesh": {
+        "Lucknow": {
+            "hospitals": [
+                {
+                    "name": "King George's Medical University",
+                    "address": "Chowk, Lucknow - 226003",
+                    "phone": "0522-2257450",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "AIIMS Rae Bareli",
+                    "address": "Rae Bareli, UP - 229405",
+                    "phone": "0535-2458000",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Sahara Hospital",
+                    "address": "Gomti Nagar, Lucknow - 226010",
+                    "phone": "0522-4011000",
+                    "services": ["Psychiatry", "Counseling"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "UP Mental Health Foundation",
+                    "address": "Hazratganj, Lucknow",
+                    "phone": "0522-2634567",
+                    "services": ["Student Counseling", "Family Therapy"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "UP Student Mental Health",
+                    "contact": "up.student.mh@gmail.com",
+                    "meeting": "Every Saturday 4 PM"
+                }
+            ]
+        }
+    },
+    "Uttarakhand": {
+        "Dehradun": {
+            "hospitals": [
+                {
+                    "name": "All India Institute of Medical Sciences Rishikesh",
+                    "address": "Virbhadra Road, Rishikesh - 249203",
+                    "phone": "0135-2462008",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Doon Hospital",
+                    "address": "Rajpur Road, Dehradun - 248001",
+                    "phone": "0135-2624567",
+                    "services": ["Psychiatry", "Counseling"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Uttarakhand Mental Health Centre",
+                    "address": "Paltan Bazaar, Dehradun",
+                    "phone": "0135-2634567",
+                    "services": ["Student Counseling", "Nature Therapy"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Himalayan Youth Mental Health",
+                    "contact": "uttarakhand.youth@gmail.com",
+                    "meeting": "Mountain wellness retreats"
+                }
+            ]
+        }
+    },
+    "West Bengal": {
+        "Kolkata": {
+            "hospitals": [
+                {
+                    "name": "Institute of Post Graduate Medical Education & Research",
+                    "address": "244 AJC Bose Road, Kolkata - 700020",
+                    "phone": "033-22231610",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Medical College Hospital",
+                    "address": "88 College Street, Kolkata - 700073",
+                    "phone": "033-22419861",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Apollo Gleneagles Hospital",
+                    "address": "58 Canal Circular Road, Kolkata - 700054",
+                    "phone": "033-23206789",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Private",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "West Bengal Mental Health Foundation",
+                    "address": "Park Street, Kolkata",
+                    "phone": "033-22345678",
+                    "services": ["Individual Therapy", "Student Support"],
+                    "cost": "Moderate"
+                },
+                {
+                    "name": "Kolkata Counseling Centre",
+                    "address": "Salt Lake, Kolkata",
+                    "phone": "033-23456789",
+                    "services": ["Student Counseling", "Cultural Therapy"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Bengal Youth Mental Health",
+                    "contact": "wb.youth.mh@gmail.com",
+                    "meeting": "Every Tuesday 6 PM"
+                }
+            ]
+        }
+    },
+    "Delhi": {
+        "New Delhi": {
+            "hospitals": [
+                {
+                    "name": "All India Institute of Medical Sciences (AIIMS)",
+                    "address": "Ansari Nagar, New Delhi - 110029",
+                    "phone": "011-26588500",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Institute of Human Behaviour and Allied Sciences (IHBAS)",
+                    "address": "Dilshad Garden, Delhi - 110095",
+                    "phone": "011-22582520",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Max Super Speciality Hospital",
+                    "address": "Saket, New Delhi - 110017",
+                    "phone": "011-26515050",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Private",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Centre for Mental Health Law & Policy",
+                    "address": "Various locations in Delhi",
+                    "phone": "011-26862865",
+                    "services": ["Legal Aid", "Mental Health Support"],
+                    "cost": "Free"
+                },
+                {
+                    "name": "Delhi Mental Health Centre",
+                    "address": "Connaught Place, New Delhi",
+                    "phone": "011-23456789",
+                    "services": ["Student Counseling", "Crisis Intervention"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Delhi Youth Mental Health",
+                    "contact": "delhi.youth.mh@gmail.com",
+                    "meeting": "Every Wednesday 6 PM"
+                }
+            ]
+        }
+    },
+    "Andaman and Nicobar Islands": {
+        "Port Blair": {
+            "hospitals": [
+                {
+                    "name": "G.B. Pant Hospital",
+                    "address": "Port Blair, Andaman and Nicobar Islands - 744101",
+                    "phone": "03192-232102",
+                    "services": ["General Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Regional Cancer Centre",
+                    "address": "Port Blair - 744103",
+                    "phone": "03192-251190",
+                    "services": ["Psycho-oncology", "Counseling"],
+                    "type": "Government",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Andaman Mental Health Centre",
+                    "address": "Aberdeen Bazaar, Port Blair",
+                    "phone": "03192-234567",
+                    "services": ["Individual Counseling", "Island Therapy"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Island Mental Health Support",
+                    "contact": "andaman.mh@gmail.com",
+                    "meeting": "Beach wellness sessions"
+                }
+            ]
+        }
+    },
+    "Chandigarh": {
+        "Chandigarh": {
+            "hospitals": [
+                {
+                    "name": "Post Graduate Institute of Medical Education & Research",
+                    "address": "Sector-12, Chandigarh - 160012",
+                    "phone": "0172-2755555",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Government Medical College Hospital",
+                    "address": "Sector-32, Chandigarh - 160030",
+                    "phone": "0172-2601023",
+                    "services": ["Psychiatry", "Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Chandigarh Mental Health Centre",
+                    "address": "Sector-17, Chandigarh",
+                    "phone": "0172-2701234",
+                    "services": ["Student Counseling", "Stress Management"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Tricity Mental Health Group",
+                    "contact": "tricity.mh@gmail.com",
+                    "meeting": "Rock Garden wellness sessions"
+                }
+            ]
+        }
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+        "Daman": {
+            "hospitals": [
+                {
+                    "name": "Government Hospital Daman",
+                    "address": "Nani Daman, Daman - 396210",
+                    "phone": "0260-2230168",
+                    "services": ["General Psychiatry"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Community Health Centre",
+                    "address": "Silvassa, Dadra and Nagar Haveli - 396230",
+                    "phone": "0260-2642345",
+                    "services": ["Basic Mental Health"],
+                    "type": "Government",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Daman Mental Health Support",
+                    "address": "Moti Daman, Daman",
+                    "phone": "0260-2234567",
+                    "services": ["Community Counseling"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Coastal Mental Health Group",
+                    "contact": "daman.mh@gmail.com",
+                    "meeting": "Beach therapy sessions"
+                }
+            ]
+        }
+    },
+    "Jammu and Kashmir": {
+        "Srinagar": {
+            "hospitals": [
+                {
+                    "name": "Government Medical College Srinagar",
+                    "address": "Karan Nagar, Srinagar - 190010",
+                    "phone": "0194-2403013",
+                    "services": ["Psychiatry", "Psychology", "Crisis Intervention"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "SKIMS (Sher-i-Kashmir Institute of Medical Sciences)",
+                    "address": "Soura, Srinagar - 190011",
+                    "phone": "0194-2401013",
+                    "services": ["Psychiatry", "Neurology"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Kashmir Mental Health Centre",
+                    "address": "Lal Chowk, Srinagar",
+                    "phone": "0194-2456789",
+                    "services": ["Trauma Counseling", "PTSD Support"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Kashmir Peace & Mental Health",
+                    "contact": "kashmir.peace.mh@gmail.com",
+                    "meeting": "Dal Lake wellness sessions"
+                }
+            ]
+        }
+    },
+    "Ladakh": {
+        "Leh": {
+            "hospitals": [
+                {
+                    "name": "SNM Hospital Leh",
+                    "address": "Leh, Ladakh - 194101",
+                    "phone": "01982-252014",
+                    "services": ["General Psychiatry", "High Altitude Psychology"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Sonam Norboo Memorial Hospital",
+                    "address": "Leh - 194101",
+                    "phone": "01982-252066",
+                    "services": ["Basic Mental Health"],
+                    "type": "Government",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Ladakh Mental Wellness Centre",
+                    "address": "Main Bazaar, Leh",
+                    "phone": "01982-253456",
+                    "services": ["Buddhist Counseling", "Meditation Therapy"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Himalayan Mental Health Circle",
+                    "contact": "ladakh.mh@gmail.com",
+                    "meeting": "Monastery meditation sessions"
+                }
+            ]
+        }
+    },
+    "Lakshadweep": {
+        "Kavaratti": {
+            "hospitals": [
+                {
+                    "name": "Government Hospital Kavaratti",
+                    "address": "Kavaratti, Lakshadweep - 682555",
+                    "phone": "04896-262221",
+                    "services": ["Basic Mental Health"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Community Health Centre",
+                    "address": "Agatti, Lakshadweep - 682553",
+                    "phone": "04896-264567",
+                    "services": ["General Health"],
+                    "type": "Government",
+                    "emergency": false
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Lakshadweep Wellness Centre",
+                    "address": "Beach Road, Kavaratti",
+                    "phone": "04896-263456",
+                    "services": ["Island Community Counseling"],
+                    "cost": "Free"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "Coral Island Mental Health",
+                    "contact": "lakshadweep.mh@gmail.com",
+                    "meeting": "Lagoon wellness gatherings"
+                }
+            ]
+        }
+    },
+    "Puducherry": {
+        "Puducherry": {
+            "hospitals": [
+                {
+                    "name": "Jawaharlal Institute of Postgraduate Medical Education & Research",
+                    "address": "Dhanvantari Nagar, Puducherry - 605006",
+                    "phone": "0413-2296000",
+                    "services": ["Psychiatry", "Psychology", "De-addiction"],
+                    "type": "Government",
+                    "emergency": true
+                },
+                {
+                    "name": "Government Hospital Puducherry",
+                    "address": "Goubert Avenue, Puducherry - 605001",
+                    "phone": "0413-2334567",
+                    "services": ["General Psychiatry"],
+                    "type": "Government",
+                    "emergency": true
+                }
+            ],
+            "counseling_centers": [
+                {
+                    "name": "Puducherry Mental Health Centre",
+                    "address": "French Quarter, Puducherry",
+                    "phone": "0413-2245678",
+                    "services": ["Cultural Therapy", "French-Indian Counseling"],
+                    "cost": "Affordable"
+                }
+            ],
+            "support_groups": [
+                {
+                    "name": "French Riviera Mental Health",
+                    "contact": "puducherry.mh@gmail.com",
+                    "meeting": "Promenade Beach sessions"
+                }
+            ]
+        }
+    }
+}

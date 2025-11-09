@@ -1,0 +1,98 @@
+{
+    "Engineering": {
+        "base_stress_factor": 0.8,
+        "common_triggers": ["Project deadlines", "Technical complexity", "Practical labs", "Competitive environment"],
+        "peak_stress_periods": ["Semester exams", "Project submissions", "Placement season"],
+        "coping_strategies": [
+            "Break complex problems into smaller tasks",
+            "Form study groups for collaborative learning",
+            "Practice time management for multiple projects",
+            "Seek help from seniors and professors",
+            "Use online resources for technical concepts"
+        ]
+    },
+    "Medical": {
+        "base_stress_factor": 0.9,
+        "common_triggers": ["Heavy syllabus", "Clinical rotations", "Patient responsibility", "NEET preparation"],
+        "peak_stress_periods": ["Anatomy practicals", "Clinical postings", "Final year exams"],
+        "coping_strategies": [
+            "Create visual study aids for complex topics",
+            "Practice with medical simulators",
+            "Join study groups for case discussions",
+            "Maintain work-life balance during rotations",
+            "Seek mentorship from senior doctors"
+        ]
+    },
+    "Law": {
+        "base_stress_factor": 0.7,
+        "common_triggers": ["Case studies", "Moot courts", "Legal research", "Bar exam preparation"],
+        "peak_stress_periods": ["Moot court competitions", "Internship applications", "Bar examinations"],
+        "coping_strategies": [
+            "Practice legal writing regularly",
+            "Participate in mock trials",
+            "Build strong research skills",
+            "Network with legal professionals",
+            "Stay updated with current legal affairs"
+        ]
+    },
+    "Commerce": {
+        "base_stress_factor": 0.6,
+        "common_triggers": ["Financial calculations", "Market analysis", "Accounting complexities", "CA preparation"],
+        "peak_stress_periods": ["CA exams", "Internship season", "Final year projects"],
+        "coping_strategies": [
+            "Practice numerical problems daily",
+            "Use financial software tools",
+            "Join commerce student communities",
+            "Seek internships for practical exposure",
+            "Focus on conceptual understanding"
+        ]
+    },
+    "Arts/Humanities": {
+        "base_stress_factor": 0.5,
+        "common_triggers": ["Essay writing", "Research projects", "Career uncertainty", "Competitive exams"],
+        "peak_stress_periods": ["Research submissions", "Competitive exam season", "Job applications"],
+        "coping_strategies": [
+            "Develop strong writing skills",
+            "Engage in interdisciplinary learning",
+            "Build a diverse skill portfolio",
+            "Explore various career paths",
+            "Participate in cultural activities"
+        ]
+    },
+    "Science": {
+        "base_stress_factor": 0.7,
+        "common_triggers": ["Laboratory work", "Research methodology", "Scientific writing", "Graduate school prep"],
+        "peak_stress_periods": ["Research deadlines", "Lab examinations", "Conference presentations"],
+        "coping_strategies": [
+            "Maintain detailed lab notebooks",
+            "Collaborate with research peers",
+            "Practice scientific presentation skills",
+            "Stay current with scientific literature",
+            "Develop critical thinking abilities"
+        ]
+    },
+    "MBA": {
+        "base_stress_factor": 0.8,
+        "common_triggers": ["Case competitions", "Group projects", "Placement pressure", "Networking events"],
+        "peak_stress_periods": ["Summer internship applications", "Final placements", "Capstone projects"],
+        "coping_strategies": [
+            "Develop leadership and teamwork skills",
+            "Build professional networks",
+            "Practice case study analysis",
+            "Enhance communication skills",
+            "Stay updated with business trends"
+        ]
+    },
+    "Computer Science": {
+        "base_stress_factor": 0.8,
+        "common_triggers": ["Programming assignments", "Algorithm complexity", "System design", "Coding interviews"],
+        "peak_stress_periods": ["Hackathons", "Technical interviews", "Project demos"],
+        "coping_strategies": [
+            "Practice coding regularly",
+            "Contribute to open source projects",
+            "Build a strong portfolio",
+            "Stay updated with technology trends",
+            "Participate in coding communities"
+        ]
+    }
+}
