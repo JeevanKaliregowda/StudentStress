@@ -47,7 +47,6 @@ An **AI-powered web application** that predicts student stress levels using mach
 ### 1. **Professional Course Selection**
 Choose from 8 specialized academic fields for tailored analysis:
 
-![Course Selection Interface](images/course_selection.png)
 
 - 🔬 **Engineering** - Technical stress patterns and solutions
 - ⚕️ **Medicine** - Healthcare-specific stress management  
