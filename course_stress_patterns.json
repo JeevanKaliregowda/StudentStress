@@ -1,0 +1,100 @@
+{
+    "Engineering": {
+        "base_stress_factor": 0.7,
+        "common_triggers": ["Project deadlines", "Technical complexity", "Practical labs", "Competitive environment"],
+        "coping_strategies": [
+            "Break complex projects into smaller milestones",
+            "Form study groups for difficult subjects",
+            "Use online resources and tutorials for technical concepts",
+            "Schedule regular breaks during coding sessions",
+            "Practice time management for multiple assignments"
+        ]
+    },
+    "Medical": {
+        "base_stress_factor": 0.9,
+        "common_triggers": ["Extensive syllabus", "Clinical rotations", "Long study hours", "High stakes exams"],
+        "coping_strategies": [
+            "Create structured study schedules",
+            "Use mnemonics and visual aids for memorization",
+            "Join peer study groups",
+            "Practice self-care between clinical rotations",
+            "Seek mentorship from senior students"
+        ]
+    },
+    "Law": {
+        "base_stress_factor": 0.65,
+        "common_triggers": ["Case studies", "Court visits", "Memorization", "Presentation anxiety"],
+        "coping_strategies": [
+            "Practice mock arguments regularly",
+            "Create case law summary notes",
+            "Participate in moot courts",
+            "Develop strong reading habits",
+            "Work on public speaking skills"
+        ]
+    },
+    "Commerce/CA": {
+        "base_stress_factor": 0.6,
+        "common_triggers": ["Exam pressure", "Articleship stress", "Multiple attempts", "Complex calculations"],
+        "coping_strategies": [
+            "Focus on conceptual understanding",
+            "Practice previous year papers",
+            "Join coaching if needed",
+            "Balance articleship and studies",
+            "Take care of mental health during attempts"
+        ]
+    },
+    "Arts/Humanities": {
+        "base_stress_factor": 0.4,
+        "common_triggers": ["Assignment deadlines", "Research work", "Presentation anxiety", "Career uncertainty"],
+        "coping_strategies": [
+            "Develop strong research skills",
+            "Engage in extracurricular activities",
+            "Build a diverse skill set",
+            "Network with professors and peers",
+            "Explore internship opportunities"
+        ]
+    },
+    "Science": {
+        "base_stress_factor": 0.55,
+        "common_triggers": ["Lab work", "Research projects", "Exam pressure", "Competitive exams preparation"],
+        "coping_strategies": [
+            "Maintain detailed lab notebooks",
+            "Collaborate on research projects",
+            "Practice problem-solving regularly",
+            "Prepare systematically for competitive exams",
+            "Balance theory and practical work"
+        ]
+    },
+    "MBA/Management": {
+        "base_stress_factor": 0.65,
+        "common_triggers": ["Case studies", "Group projects", "Placements", "Networking pressure"],
+        "coping_strategies": [
+            "Develop teamwork skills",
+            "Practice case analysis regularly",
+            "Build professional network",
+            "Focus on soft skills development",
+            "Maintain work-life balance"
+        ]
+    },
+    "Architecture": {
+        "base_stress_factor": 0.75,
+        "common_triggers": ["Design submissions", "All-nighters", "Critique sessions", "Technical drawings"],
+        "coping_strategies": [
+            "Start projects early",
+            "Avoid last-minute submissions",
+            "Learn to accept constructive criticism",
+            "Take regular breaks during design work",
+            "Maintain physical health"
+        ]
+    },
+    "Other": {
+        "base_stress_factor": 0.5,
+        "common_triggers": ["General academic pressure", "Time management", "Exam stress"],
+        "coping_strategies": [
+            "Develop good study habits",
+            "Seek academic support when needed",
+            "Balance academics with personal life",
+            "Practice stress management techniques"
+        ]
+    }
+}

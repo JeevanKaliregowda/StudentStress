@@ -1,0 +1,181 @@
+{
+    "Karnataka": {
+        "Bangalore": {
+            "hospitals": [
+                {
+                    "name": "NIMHANS (National Institute of Mental Health and Neuro Sciences)",
+                    "type": "Government",
+                    "phone": "080-26995000",
+                    "address": "Hosur Road, Bangalore - 560029",
+                    "services": ["Psychiatry", "Clinical Psychology", "Emergency Services"]
+                },
+                {
+                    "name": "Cadabam's Hospitals",
+                    "type": "Private",
+                    "phone": "080-67470000",
+                    "address": "Multiple locations in Bangalore",
+                    "services": ["Psychiatry", "De-addiction", "Rehabilitation"]
+                },
+                {
+                    "name": "Spandana Healthcare",
+                    "type": "Private",
+                    "phone": "080-25483666",
+                    "address": "Bangalore",
+                    "services": ["Counseling", "Therapy", "Psychiatric Services"]
+                }
+            ],
+            "therapy_centers": [
+                {
+                    "name": "Mind Plus",
+                    "phone": "080-42426262",
+                    "services": ["Individual Therapy", "Family Therapy"]
+                },
+                {
+                    "name": "Inner Space",
+                    "phone": "080-26492244",
+                    "services": ["Counseling", "Stress Management"]
+                }
+            ],
+            "helplines": [
+                {
+                    "name": "SAHAI (NIMHANS)",
+                    "number": "080-25501055"
+                },
+                {
+                    "name": "Parivarthan Counseling",
+                    "number": "080-65346337"
+                }
+            ]
+        },
+        "Mysore": {
+            "hospitals": [
+                {
+                    "name": "JSS Hospital Psychiatric Department",
+                    "type": "Private",
+                    "phone": "0821-2548000",
+                    "services": ["Psychiatry", "Counseling"]
+                }
+            ],
+            "helplines": [
+                {
+                    "name": "Mysore District Mental Health Program",
+                    "number": "0821-2423333"
+                }
+            ]
+        }
+    },
+    "Maharashtra": {
+        "Mumbai": {
+            "hospitals": [
+                {
+                    "name": "Tata Institute of Social Sciences (TISS) - iCall",
+                    "type": "Educational/NGO",
+                    "phone": "022-25521111",
+                    "services": ["Counseling", "Helpline"]
+                },
+                {
+                    "name": "Masina Hospital - Psychiatry",
+                    "type": "Private",
+                    "phone": "022-24765181",
+                    "services": ["Psychiatry", "Psychology"]
+                }
+            ],
+            "helplines": [
+                {
+                    "name": "AASRA",
+                    "number": "91-22-27546669"
+                },
+                {
+                    "name": "Connecting NGO",
+                    "number": "91-9922001122"
+                }
+            ]
+        },
+        "Pune": {
+            "hospitals": [
+                {
+                    "name": "Sahyadri Hospital - Mental Health",
+                    "type": "Private",
+                    "phone": "020-67206720",
+                    "services": ["Psychiatry", "De-addiction"]
+                }
+            ],
+            "helplines": [
+                {
+                    "name": "Maitri",
+                    "number": "020-25521111"
+                }
+            ]
+        }
+    },
+    "Tamil Nadu": {
+        "Chennai": {
+            "hospitals": [
+                {
+                    "name": "Institute of Mental Health",
+                    "type": "Government",
+                    "phone": "044-25281010",
+                    "services": ["Psychiatry", "Emergency Services"]
+                },
+                {
+                    "name": "Schizophrenia Research Foundation (SCARF)",
+                    "type": "NGO",
+                    "phone": "044-26480048",
+                    "services": ["Mental Health Services", "Rehabilitation"]
+                }
+            ],
+            "helplines": [
+                {
+                    "name": "Sneha",
+                    "number": "044-24640050"
+                }
+            ]
+        }
+    },
+    "Delhi": {
+        "New Delhi": {
+            "hospitals": [
+                {
+                    "name": "IHBAS (Institute of Human Behaviour and Allied Sciences)",
+                    "type": "Government",
+                    "phone": "011-22582000",
+                    "services": ["Psychiatry", "Clinical Psychology"]
+                },
+                {
+                    "name": "VIMHANS (Vidyasagar Institute of Mental Health)",
+                    "type": "Private",
+                    "phone": "011-26161558",
+                    "services": ["Comprehensive Mental Health"]
+                }
+            ],
+            "helplines": [
+                {
+                    "name": "iCall",
+                    "number": "022-25521111"
+                },
+                {
+                    "name": "Vandrevala Foundation",
+                    "number": "1860-2662-345"
+                }
+            ]
+        }
+    },
+    "West Bengal": {
+        "Kolkata": {
+            "hospitals": [
+                {
+                    "name": "Institute of Psychiatry (IPGMER)",
+                    "type": "Government",
+                    "phone": "033-22237984",
+                    "services": ["Psychiatry", "Emergency Care"]
+                }
+            ],
+            "helplines": [
+                {
+                    "name": "Kolkata Sanved",
+                    "number": "033-24637401"
+                }
+            ]
+        }
+    }
+}
